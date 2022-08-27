@@ -31,3 +31,16 @@ https://sgpjournal.mgimo.ru/upload/ckeditor/files/7-gareeva-krylova-khovrina.pdf
 https://en.wikipedia.org/wiki/Industrial_espionage (2)
 
 https://www.cisa.gov/uscert/ncas/alerts/aa21-200b(3)
+
+### Threat answer to 
+
+Hi Akash! This is Truc. I have to tell you, there is no coding in this class my friend. However, the material is extremely 
+awesome (I read 3 chapters in the book by far). Sometimes this knowledge (to design and prevent) is way more important than 
+the ability to code. If you like coding I can suggest an ethical hacking and pen testing course that you can buy at Udemy. 
+They cover many aspects of hacking in coding style (Python, networking, mapping, infrastructure): Learn Python & Ethical 
+Hacking From Scratch | Udemy. If you want to implement security coding in software development there are Secure Coding
+Guidelines (you may want to do your own research toward reliable source IEEE for example). ISO 9000-3: Quality management 
+and quality assurance standards, https://www.iso.org/standard/26364.html. This is also a good book for your purpose. 
+If you like them let me know.
+
+#happycoding #continuouscontribute  
