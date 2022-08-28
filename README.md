@@ -65,3 +65,5 @@ How do Enigma’s functionality and design? According to (1), Enigma resembles a
 According to Chapple, M., & Seidl, D. (2023), the Bombe System was developed from the Ultra Project (led by British mathematicians Alan Turning). It was a very large, special purpose computer. Bombe's main duty is to break the Enigma code. After many years of development, the Bombe was able to decode the communications from the Enigma machine. Thus, the Allied war planners gained great insight into German Operations, and the entire German communication system fell into the Allied hands. Therefore, the development of Bombe is the turning point to winning the war and saving the lives of billions of people.
 
 ## References:
+
+Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
