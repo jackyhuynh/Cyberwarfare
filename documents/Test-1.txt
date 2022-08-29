@@ -1,0 +1,363 @@
+Question 1 (Mandatory) (1 point) 
+Saved
+What are the two major activities of cyberwar?
+Question 1 options:
+
+information operations and cyberattacks
+
+cyberespionage and military deception
+
+cyberattacks and cyberespionage
+
+psychological operations and cyberespionage
+Question 2 (Mandatory) (1 point) 
+Saved
+The U.S. Air Force is responsible for which domains of warfare?
+Question 2 options:
+
+land and sea
+
+sea and air
+
+air and space
+
+space and sea
+Question 3 (Mandatory) (1 point) 
+Saved
+What is a nonstate actor?
+Question 3 options:
+
+An entity that seeks to participate in cyberwarfare independently of a national government
+
+An action taken to affect an adversary's information and information systems
+
+A member of the USCYBERCOM
+
+A government entity that performs cyberespionage on behalf of the U.S. military
+Question 4 (Mandatory) (1 point) 
+Saved
+The U.S. Cyber Command (USCYBERCOM) is NOT responsible for _________.
+Question 4 options:
+
+Managing cyberspace risk through efforts such as increased training and information assurance
+
+Assuring integrity and availability by engaging in partnerships, building
+collective self defenses, and maintaining a common operating picture
+
+Ensuring the development of integrated capabilities by working closely with
+Combatant Commands, Services, Agencies, and the acquisition community
+
+Conducting operations across on behalf of foreign nonstate actors
+Question 5 (Mandatory) (1 point) 
+Saved
+Cyber domains are organized around _________.
+Question 5 options:
+
+cyberattacks and cyberespionage
+
+offensive and defensive information
+
+computer network defense and intelligence gathering
+
+computer network attacks (CNAs) and computer network defenses (CNDs)
+Question 6 (Mandatory) (1 point) 
+Saved
+Which of the following is NOT one of the U.S. Department of Defense's (DoD's) seven techniques of information operations?
+Question 6 options:
+
+intelligence gathering
+
+armed conflict
+
+electronic warfare
+
+operation security
+Question 7 (Mandatory) (1 point) 
+Saved
+According to the U.S. Department of Defense (DoD) Information Operations Roadmap, _________ fall squarely within the realm of cyberwarfare.
+Question 7 options:
+
+electronic warfare and computer network defense
+
+military deception and computer network defense
+
+psychological operations and operations security
+
+computer network defense and computer network attack
+Question 8 (Mandatory) (1 point) 
+Saved
+Which of the U.S. Department of Defense's (DoD's) seven techniques of information operations may involve disrupting the use of global navigation systems and jamming enemy radio transmissions?
+Question 8 options:
+
+computer network defense
+
+intelligence gathering
+
+electronic warfare
+
+military deception
+Question 9 (Mandatory) (1 point) 
+Saved
+Which of the U.S. Department of Defense's (DoD's) seven techniques of information operations is designed to prevent the enemy from successfully engaging in intelligence gathering?
+Question 9 options:
+
+operations security
+
+intelligence gathering
+
+electronic warfare
+
+computer network defense
+Question 10 (Mandatory) (1 point) 
+Saved
+Which of the U.S. Department of Defense's (DoD's) seven techniques of information operations involves counteracting enemy propaganda to portray friendly intent and actions in a positive light for foreign audiences?
+Question 10 options:
+
+operations security
+
+intelligence gathering
+
+psychological operations
+
+military deception
+Question 11 (Mandatory) (1 point) 
+Saved
+According to Joint Publication 3-13.1, Electronic Warfare, by the Joint Chiefs of Staff, which of the following is NOT a category of electronic warfare activity?
+Question 11 options:
+
+electronic attack
+
+electronic protect
+
+electronic warfare support
+
+electronic deception
+Question 12 (Mandatory) (1 point) 
+Saved
+The military or government leaks false information about the time and location of an impending invasion, attempting to mislead a foreign leader into making a strategic mistake. Which of the U.S. Department of Defense's (DoD's) seven techniques of information operations is most likely involved?
+Question 12 options:
+
+operations security
+
+military deception
+
+psychological operations
+
+intelligence gathering
+Question 13 (Mandatory) (1 point) 
+Saved
+______ is NOT one of the five primary steps of operations security (OPSEC).
+Question 13 options:
+
+Identification of critical information
+
+Threat analysis
+
+Intelligence gathering
+
+Countermeasures
+Question 14 (Mandatory) (1 point) 
+Saved
+What is the significance of identifying critical information in the operations security (OPSEC) process?
+Question 14 options:
+
+To protect only critical information, rather than trying to safeguard voluminous
+amounts of nonsensitive information
+
+To protect all information, whether critical or nonsensitive
+
+To determine whether the information is offensive or defensive
+
+None of the above
+Question 15 (Mandatory) (1 point) 
+Saved
+Which phase of the operations security (OPSEC) process involves a series of questions that helps identify adversaries and their capabilities?
+Question 15 options:
+
+identification of critical information
+
+threat analysis
+
+vulnerability analysis
+
+risk assessment
+Question 16 (Mandatory) (1 point) 
+Saved
+During which phase of the operations security (OPSEC) process is a cost-benefit analysis conducted?
+Question 16 options:
+
+identification of critical information
+
+threat analysis
+
+vulnerability analysis
+
+risk assessment
+Question 17 (Mandatory) (1 point) 
+Saved
+During which phase of the operations process (OPSEC) do planners examine every aspect of a planned operation to identify the ways that an adversary could gather pieces of critical information from the operation?
+Question 17 options:
+
+identification of critical information
+
+threat analysis
+
+vulnerability analysis
+
+risk assessment
+Question 18 (Mandatory) (1 point) 
+Saved
+The four categories of offensive information operations objectives are ________.
+Question 18 options:
+
+identify, exploit, corrupt, and dismiss
+
+deny, exploit, corrupt, and destroy
+
+deny, exploit, corrupt, and dismiss
+
+identify, deny, attack, and destroy
+Question 19 (Mandatory) (1 point) 
+Saved
+Which of the following is under U.S. military control?
+Question 19 options:
+
+U.S. electrical grid
+
+the Internet
+
+warfare domains
+
+e-commerce
+Question 20 (Mandatory) (1 point) 
+Saved
+Regarding the operations security (OPSEC) process, in what context does a vulnerability exist?
+Question 20 options:
+
+When information is identified as critical
+
+When adversaries attempt to collect information
+
+When friendly forces collect critical information, analyze it, and take action on it
+
+When friendly forces provide adversaries with the opportunity to collect critical information, analyze it, and take action on it
+Question 21 (Mandatory) (1 point) 
+Saved
+Cyberattacks are nonkinetic, offensive operations that are intended to cause some form of physical or electronic damage.
+Question 21 options:
+	True
+	False
+Question 22 (Mandatory) (1 point) 
+Saved
+The four domains of traditional warfare are land, sea, air, and cyber.
+Question 22 options:
+	True
+	False
+Question 23 (Mandatory) (1 point) 
+Saved
+According to the U.S. Department of Defense's (DoD's) Information Operations Roadmap, while all intelligence gathering fits within the domain of information operations, not all intelligence operations are cyberwarfare.
+Question 23 options:
+	True
+	False
+Question 24 (Mandatory) (1 point) 
+Saved
+A vulnerability in a computer system or network that's unknown to the outside world is known as a zero-day vulnerability.
+Question 24 options:
+	True
+	False
+Question 25 (Mandatory) (1 point) 
+Saved
+Cyberespionage involves intrusions onto computer systems and networks designed to steal sensitive information that may be used for military, political, or economic gain.
+Question 25 options:
+	True
+	False
+Question 26 (Mandatory) (1 point) 
+Saved
+According to the U.S. Department of Defense's (DoD's) Information Operations Roadmap, computer network attack (CNA) activities are designed to protect, monitor, analyze, detect, and respond to unauthorized activity in friendly information systems and networks.
+Question 26 options:
+	True
+	False
+Question 27 (Mandatory) (1 point) 
+Saved
+The cyberespionage capabilities of the U.S. military are commonly referred to using the term computer network exploitation (CNE).
+Question 27 options:
+	True
+	False
+Question 28 (Mandatory) (1 point) 
+Saved
+When intelligence gathering methods include the exploitation of computer systems and networks, the activities fall under the category of cyberespionage and are part of both information operations and cyberwarfare.
+Question 28 options:
+	True
+	False
+Question 29 (Mandatory) (1 point) 
+Saved
+Psychological operations (PSYOPs) are defined by the U.S. military as military operations planned to convey selected information and indicators to foreign governments, organizations, groups, and individuals in order to influence their emotions, motives, objective reasoning, and behavior.
+Question 29 options:
+	True
+	False
+Question 30 (Mandatory) (1 point) 
+Saved
+Operations security (OPSEC) activities are designed to deny an adversary access to information about friendly forces that would reveal capabilities, plans, or actions.
+Question 30 options:
+	True
+	False
+Question 31 (Mandatory) (1 point) 
+Saved
+While the computer network attack (CNA) capabilities of the United States and its allies gives them the ability to intercept communications between commercial data centers operated by Google, the United States and its allies do not have direct access to Google servers.
+Question 31 options:
+	True
+	False
+Question 32 (Mandatory) (1 point) 
+Saved
+The group Anonymous is an example of a nonstate actor.
+Question 32 options:
+	True
+	False
+Question 33 (Mandatory) (1 point) 
+Saved
+During World War II, the German and Japanese governments developed the Enigma machine, which was used or electronic surveillance.
+Question 33 options:
+	True
+	False
+Question 34 (Mandatory) (1 point) 
+Saved
+During the operations security (OPSEC) process, once a countermeasure is put in place, its is not changed unless newer technology requires its replacement.
+Question 34 options:
+	True
+	False
+Question 35 (Mandatory) (1 point) 
+Saved
+Defensive information operations are intentional military actions that are designed to adversely affect an enemy's information or information systems.
+Question 35 options:
+	True
+	False
+Question 36 (Mandatory) (1 point) 
+Saved
+The weapons used by military forces engaging in computer network attack (CNA) activities are quite different than those hackers use in seeking to undermine information systems.
+Question 36 options:
+	True
+	False
+Question 37 (Mandatory) (1 point) 
+Saved
+"Tokyo Rose" radio broadcasts from Japan to U.S. troops during World War II and the "Hanoi Hannah" broadcasts used by the Viet Cong during the Vietnam War are examples of propaganda attacks.
+Question 37 options:
+	True
+	False
+Question 38 (Mandatory) (1 point) 
+Saved
+During the operations security (OPSEC) process, the vulnerability analysis phase focuses on indicators, which are friendly actions and information that reveal critical information to the enemy.
+Question 38 options:
+	True
+	False
+Question 39 (Mandatory) (1 point) 
+Saved
+The end of World War II marked the beginning of the cold war, a 50-year period in which tensions escalated between the United States and Iraq.
+Question 39 options:
+	True
+	False
+Question 40 (Mandatory) (1 point) 
+Saved
+The U.S. military recognizes the cyber domain as the fifth domain of warfare.
+Question 40 options:
+	True
+	False
