@@ -95,10 +95,26 @@ the military better organize, train, and equip wage information operation in the
 - Computer Network Attack (CNA):
   - core capabilities of offensive information operation
   - The Use of computer network to: disrupt, deny, degrade, or destroy an adversary's information or information systems
-  - CNA weapon can exploit vulnerabilities in computer system and network - vulnerabilities unknown to the outside world (zero-day vulnerabilities)
-- Computer Network Defense 
-- Intelligence Gathering 
-- Electronic Warfare 
+  - CNA weapons can exploit vulnerabilities in computer system and network - vulnerabilities unknown to the outside world (zero-day vulnerabilities)
+  - Retrieved from (1)
+- Computer Network Defense  (CND):
+  - Activities designed to protect, monitor, analyze, detect, and respond to CNA weapons in friendly information system or network
+  - Tools and talent are exchange between the military and private sectors.
+  - Retrieved from (1)
+- Intelligence Gathering:
+  - Efforts to gather information about an adversary’s capabilities, plans, and actions
+  - Obtain as much information about the oponent as possible (cyberespionage)
+  - Retrieved from (1)
+- Electronic Warfare:
+  - Military actions designed to use electromagnetic or directed energy to control the electromagnetic spectrum or attack the enemy
+  - weapon variety are wide:
+    - (land) ground stations
+    - (air) specilized aircraft
+    - (sea) ships at sea
+  - There are 3 sub division:
+    - Electronic attack: the use of electromagnetic or directed energy to attack personal, facilities or equipments
+    - ELectronic protect: protect our personal, facilities or equipments from Electronic warfare
+    - Electronic warfare support: actions(search, analyst) that support Electronic Attack, ELectronic Protect.
 - Psychological Operation  
 - Military deception 
 - Operations Security
