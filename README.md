@@ -90,8 +90,12 @@ Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
     - Operations Security
     - 
 ## Information Operations Roadmap:
-    
-- Computer Network Attack
+INformation Operation Roadmap was developed by the Department of Defense. The roadmap organized information operation to help 
+the military better organize, train, and equip wage information operation in the future:
+- Computer Network Attack (CNA):
+  - core capabilities of offensive information operation
+  - The Use of computer network to: disrupt, deny, degrade, or destroy an adversary's information or information systems
+  - CNA weapon can exploit vulnerabilities in computer system and network - vulnerabilities unknown to the outside world (zero-day vulnerabilities)
 - Computer Network Defense 
 - Intelligence Gathering 
 - Electronic Warfare 
