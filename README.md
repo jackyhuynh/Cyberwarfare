@@ -64,7 +64,7 @@ How do Enigma’s functionality and design? According to (1), Enigma resembles a
 #### The Bombe system
 According to Chapple, M., & Seidl, D. (2023), the Bombe System was developed from the Ultra Project (led by British mathematicians Alan Turning). It was a very large, special purpose computer. Bombe's main duty is to break the Enigma code. After many years of development, the Bombe was able to decode the communications from the Enigma machine. Thus, the Allied war planners gained great insight into German Operations, and the entire German communication system fell into the Allied hands. Therefore, the development of Bombe is the turning point to winning the war and saving the lives of billions of people.
 
-#### How do you think the resources, capabilities/techniques, motivations, and aversion to risk differ between political activists and state-sponsored military cyber attackers?
+## How do you think the resources, capabilities/techniques, motivations, and aversion to risk differ between political activists and state-sponsored military cyber attackers?
 Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
 - Resources: 	
   - (PA) Limited Resources depend on the size of the organization (Ex: individuals may end up using free tools on  the internet)	
@@ -88,11 +88,17 @@ Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
     - Psychological Operation, 
     - Military deception, and 
     - Operations Security
+    - 
+## Information Operations Roadmap:
+    
+- Computer Network Attack
+- Computer Network Defense 
+- Intelligence Gathering 
+- Electronic Warfare 
+- Psychological Operation  
+- Military deception 
+- Operations Security
 
-Reference:
-
-Chapple, M., & Seidl, D. (2023). Chapter 1: Information as a Military Asset. Cyberwarfare: Information Operations in a Connected World (Second, pp. 9–20). essay, Jones & Bartlett Learning. (1)
 
 ## References:
-
-Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
+- Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
