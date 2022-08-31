@@ -115,9 +115,23 @@ the military better organize, train, and equip wage information operation in the
     - Electronic attack: the use of electromagnetic or directed energy to attack personal, facilities or equipments
     - ELectronic protect: protect our personal, facilities or equipments from Electronic warfare
     - Electronic warfare support: actions(search, analyst) that support Electronic Attack, ELectronic Protect.
-- Psychological Operation  
-- Military deception 
-- Operations Security
+- Psychological Operation (PSYOPs):
+  - Military operations planned to convey selected information and indicators to foreign governments, organizations, groups, and
+individuals to influence their emotions, motives, objective reasoning, and behavior
+  - There are five roles for PSYOPs:
+    - Influance foreign populations by sharing information subjectively
+    - Attack enemy's will to resit and minimizes the adverse impacts on psycological targets
+    - Provide public information to foreign populations to support humanitarian activities, restore or reinforce legitimacy
+    - Convey intent and etablish credibility to foreign populations
+    - Counteract enemy propagenda
+- Military deception:
+  - Actions designed to mislead adversary forces about the operational capabilities, plans, and actions of friendly force
+  - Usually occur at startegic level to attempt mislead foreign leaders
+  
+- Operations Security (OPSEC):
+  - Activities designed to deny an adversary access to information about friendly forces that would reveal capabilities, plans, or actions
+  - Designed to against the enemy's information gathering:
+  - 
 
 
 ## References:
