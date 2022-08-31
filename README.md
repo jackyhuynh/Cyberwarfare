@@ -90,7 +90,7 @@ Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
     - Operations Security
     - 
 ## Information Operations Roadmap:
-INformation Operation Roadmap was developed by the Department of Defense. The roadmap organized information operation to help 
+Information Operation Roadmap was developed by the Department of Defense. The roadmap organized information operation to help 
 the military better organize, train, and equip wage information operation in the future:
 - Computer Network Attack (CNA):
   - core capabilities of offensive information operation
@@ -115,6 +115,7 @@ the military better organize, train, and equip wage information operation in the
     - Electronic attack: the use of electromagnetic or directed energy to attack personal, facilities or equipments
     - ELectronic protect: protect our personal, facilities or equipments from Electronic warfare
     - Electronic warfare support: actions(search, analyst) that support Electronic Attack, ELectronic Protect.
+    - Retrieved from (1)
 - Psychological Operation (PSYOPs):
   - Military operations planned to convey selected information and indicators to foreign governments, organizations, groups, and
 individuals to influence their emotions, motives, objective reasoning, and behavior
@@ -127,12 +128,26 @@ individuals to influence their emotions, motives, objective reasoning, and behav
 - Military deception:
   - Actions designed to mislead adversary forces about the operational capabilities, plans, and actions of friendly force
   - Usually occur at startegic level to attempt mislead foreign leaders
-  
+  - Retrieved from (1)
 - Operations Security (OPSEC):
   - Activities designed to deny an adversary access to information about friendly forces that would reveal capabilities, plans, or actions
   - Designed to against the enemy's information gathering:
-  - 
-
+  - Retrieved from (1)
+  - There are five steps in OPSEC:
+    - Identification of critical information:
+      - Identify essential information elements that would be valuable to the enemy and cause harm if disclosed
+    - Threat Analyst: 
+      - Answer six fundamental questions to identify what, who are the threats
+    - Vulnerability Analyst:
+      - examinate all the possible way that adversaries could gather information from the operations
+    - Risk Assement
+      - Analyze vulnerabilities identified during the vulnerability assessment and identify
+possible OPSEC countermeasures for each
+      - Estimate cost of implementing each OPSEC countermeasure and make final countermeasures for execution
+    - Contermeasure Implementation
+      - Implement the plan in a secure way (four citeria) 
+      
+  - Retrieved from (1)
 
 ## References:
 - Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
