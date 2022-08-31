@@ -65,6 +65,7 @@ How do Enigma’s functionality and design? According to (1), Enigma resembles a
 According to Chapple, M., & Seidl, D. (2023), the Bombe System was developed from the Ultra Project (led by British mathematicians Alan Turning). It was a very large, special purpose computer. Bombe's main duty is to break the Enigma code. After many years of development, the Bombe was able to decode the communications from the Enigma machine. Thus, the Allied war planners gained great insight into German Operations, and the entire German communication system fell into the Allied hands. Therefore, the development of Bombe is the turning point to winning the war and saving the lives of billions of people.
 
 ## How do you think the resources, capabilities/techniques, motivations, and aversion to risk differ between political activists and state-sponsored military cyber attackers?
+
 Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
 - Resources: 	
   - (PA) Limited Resources depend on the size of the organization (Ex: individuals may end up using free tools on  the internet)	
@@ -88,66 +89,71 @@ Political Activists (PA) v.s. State-sponsored Military cyber attackers (SMCA)
     - Psychological Operation, 
     - Military deception, and 
     - Operations Security
-    - 
-## Information Operations Roadmap:
-Information Operation Roadmap was developed by the Department of Defense. The roadmap organized information operation to help 
-the military better organize, train, and equip wage information operation in the future:
-- Computer Network Attack (CNA):
-  - core capabilities of offensive information operation
-  - The Use of computer network to: disrupt, deny, degrade, or destroy an adversary's information or information systems
-  - CNA weapons can exploit vulnerabilities in computer system and network - vulnerabilities unknown to the outside world (zero-day vulnerabilities)
+
+## Information Operations Roadmap
+    
+Information Operation Roadmap was developed by the Department of Defense. The roadmap organized information operations to help 
+the military better organizes, train, and equip wage information operation in the future:
+### Computer Network Attack (CNA):
+  - Core capabilities of offensive information operation
+  - The Use of the computer network to: disrupt, deny, degrade, or destroy an adversary's information or information systems
+  - CNA weapons can exploit vulnerabilities in the computer system and network - vulnerabilities unknown to the outside world (zero-day vulnerabilities)
   - Retrieved from (1)
-- Computer Network Defense  (CND):
-  - Activities designed to protect, monitor, analyze, detect, and respond to CNA weapons in friendly information system or network
-  - Tools and talent are exchange between the military and private sectors.
+### Computer Network Defense  (CND):
+  - Activities designed to protect, monitor, analyze, detect, and respond to CNA weapons in a friendly information system or network
+  - Tools and talent are exchanged between the military and private sectors.
   - Retrieved from (1)
-- Intelligence Gathering:
+### Intelligence Gathering:
   - Efforts to gather information about an adversary’s capabilities, plans, and actions
-  - Obtain as much information about the oponent as possible (cyberespionage)
+  - Obtain as much information about the opponent as possible (cyberespionage)
   - Retrieved from (1)
-- Electronic Warfare:
+### Electronic Warfare:
   - Military actions designed to use electromagnetic or directed energy to control the electromagnetic spectrum or attack the enemy
-  - weapon variety are wide:
+  - weapon varieties are wide:
     - (land) ground stations
-    - (air) specilized aircraft
+    - (air) specialized aircraft
     - (sea) ships at sea
-  - There are 3 sub division:
-    - Electronic attack: the use of electromagnetic or directed energy to attack personal, facilities or equipments
-    - ELectronic protect: protect our personal, facilities or equipments from Electronic warfare
-    - Electronic warfare support: actions(search, analyst) that support Electronic Attack, ELectronic Protect.
+  - There are 3 subdivisions:
+    - Electronic attack: the use of electromagnetic or directed energy to attack personnel, facilities, or equipment
+    - Electronic protection: protect our personal, facilities, or equipment from Electronic warfare
+    - Electronic warfare support: actions(search, analyst) that support Electronic Attack, Electronic Protect.
     - Retrieved from (1)
-- Psychological Operation (PSYOPs):
-  - Military operations planned to convey selected information and indicators to foreign governments, organizations, groups, and
+    
+### Psychological Operation (PSYOPs):
+- Military operations planned to convey selected information and indicators to foreign governments, organizations, groups, and
 individuals to influence their emotions, motives, objective reasoning, and behavior
-  - There are five roles for PSYOPs:
-    - Influance foreign populations by sharing information subjectively
-    - Attack enemy's will to resit and minimizes the adverse impacts on psycological targets
-    - Provide public information to foreign populations to support humanitarian activities, restore or reinforce legitimacy
-    - Convey intent and etablish credibility to foreign populations
-    - Counteract enemy propagenda
-- Military deception:
-  - Actions designed to mislead adversary forces about the operational capabilities, plans, and actions of friendly force
-  - Usually occur at startegic level to attempt mislead foreign leaders
+- There are five roles for PSYOPs:
+  - Influence foreign populations by sharing information subjectively
+  - Attack the enemy's will to resist and minimizes the adverse impacts on psychological targets
+  - Provide public information to foreign populations to support humanitarian activities, and restore or reinforce the legitimacy
+  - Convey intent and establish credibility with foreign populations
+  - Counteract enemy propaganda
   - Retrieved from (1)
-- Operations Security (OPSEC):
-  - Activities designed to deny an adversary access to information about friendly forces that would reveal capabilities, plans, or actions
-  - Designed to against the enemy's information gathering:
-  - Retrieved from (1)
-  - There are five steps in OPSEC:
-    - Identification of critical information:
-      - Identify essential information elements that would be valuable to the enemy and cause harm if disclosed
-    - Threat Analyst: 
-      - Answer six fundamental questions to identify what, who are the threats
-    - Vulnerability Analyst:
-      - examinate all the possible way that adversaries could gather information from the operations
-    - Risk Assement
-      - Analyze vulnerabilities identified during the vulnerability assessment and identify
-possible OPSEC countermeasures for each
-      - Estimate cost of implementing each OPSEC countermeasure and make final countermeasures for execution
-    - Contermeasure Implementation
-      - Implement the plan in a secure way (four citeria) 
-      
-  - Retrieved from (1)
+
+### Military deception:
+- Actions designed to mislead adversary forces about the operational capabilities, plans, and actions of friendly force
+- Usually occur at the strategic level to attempt to mislead foreign leaders
+- Retrieved from (1)
+
+### Operations Security (OPSEC):
+- Activities designed to deny an adversary access to information about friendly forces that would reveal capabilities, plans, or actions
+- Designed against the enemy's information gathering:
+- Retrieved from (1)
+- There are five steps in OPSEC:
+  - Identification of critical information:
+    Identify essential information elements that would be valuable to the enemy and cause harm if disclosed
+  - Threat Analyst: 
+    Answer six fundamental questions to identify, who are the threats
+  - Vulnerability Analyst:
+    Examine all the possible ways that adversaries could gather information from the operations
+  - Risk Assessment
+    Analyze vulnerabilities identified during the vulnerability assessment and identify
+  possible OPSEC countermeasures for each. Estimate the cost of implementing each OPSEC countermeasure and make final countermeasures for execution
+  - Countermeasure Implementation
+    Implement the plan in a secure way (four criteria) 
+- Retrieved from (1)
+
+
 
 ## References:
 - Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
