@@ -153,6 +153,9 @@ individuals to influence their emotions, motives, objective reasoning, and behav
     Implement the plan in a secure way (four criteria) 
 - Retrieved from (1)
 
+# Hands on Practice:
+
+# Denial of Service (DoS) Attacks:
 
 
 ## References:
