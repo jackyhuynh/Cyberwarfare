@@ -157,6 +157,84 @@ individuals to influence their emotions, motives, objective reasoning, and behav
 
 # Denial of Service (DoS) Attacks:
 
+A “denial of service” or DoS attack is used to tie up a website’s resources so that users who need to access the site cannot do so. The attacks have hit many major companies. And the bad news? Because a DoS attack can be launched from nearly any location, finding those responsible for them can be difficult.
+
+Here’s are some answers to frequently asked questions about these attacks, how they work, and how you can protect yourself from them.
+
+## How long have DoS attacks been a threat?
+A 13-year-old, David Dennis, can claim credit for the first DoS attack in 1974. Dennis  wrote a program using the “external” or “ext” command that forced computers at a  nearby university research lab to power off. 
+
+DoS attacks have since evolved into the more complex and sophisticated “distributed denial of service” (DDoS) attacks that are common today. The biggest attack ever recorded — at that time — targeted code-hosting-service GitHub in 2018.
+
+## Who is usually behind DoS attacks?
+Attackers typically include hacktivists, hackers whose activity is aimed at promoting a social or political cause; profit-motivated cybercriminals and nation states.
+
+## What are flooding DoS attacks?
+DoS attacks generally take one of two forms. They either flood web services or crash them.
+
+Flooding attacks are the more common form. These occur when the attacked system is overwhelmed by large amounts of traffic that the server is unable to handle. The system eventually stops.
+
+An ICMP flood — also known as a ping flood — is a type of DoS attack that sends spoofed packets of information that hit every computer in a targeted networ ,
+taking advantage of misconfigured network devices.
+
+A SYN flood is a variation that exploits a vulnerability in the TCP connection sequence.  This is often referred to as the three-way handshake connection with the host and the  server. Here’s how it works:
+
+The targeted server receives a request to begin the handshake. But, in a SYN flood, the handshake is never completed. That leaves the connected port as occupied and unavailable to process further requests. Meanwhile, the cybercriminal continues to send more and more requests, overwhelming all open ports and shutting down the server.
+
+What are crash DoS attacks?
+Crash attacks occur less often when cybercriminals transmit bugs that exploit flaws in the targeted system. The result? The system crashes.
+
+Crash attacks — and flooding attacks — prevent legitimate users from accessing online services such as websites, gaming sites, email, and bank accounts.
+
+## How do DoS attacks work?
+Unlike a virus or malware, a DoS attack doesn’t depend on a special program to run. Instead, it takes advantage of an inherent vulnerability in the way computer networks communicate.
+
+Suppose you wish to visit an e-commerce site to shop for a gift. Your computer sends a small packet of information to the website. The packet works as a “hello.” Basically, your computer says, “Hi. I’d like to visit you. Please let me in.”
+
+When the server receives your computer’s message, it sends a short one back, saying in a sense, “OK. Are you real?” Your computer responds — “Yes!” — and communication is established.
+
+The website’s homepage then pops up on your screen, and you can explore the site. Your computer and the server continue communicating as you click links, place orders, and carry out other business.
+
+In a DoS attack, a computer is rigged to send not just one “introduction” to a server, but hundreds or thousands. The server — which cannot tell that the introductions are fake — sends back its usual response, waiting up to a minute in each case to hear a reply. When it gets no reply, the server shuts down the connection, and the computer executing the attack repeats, sending a new batch of fake requests.
+
+DoS attacks mostly affect organizations and how they run in a connected world. For consumers, the attacks hinder their ability to access services and information.
+
+## What is a distributed denial of service (DDoS) attack?
+Distributed denial of service, or DDoS, attacks are the next step in the evolution of DoS attacks. Cybercriminals began using DDoS attacks around 2000.
+
+These attacks use large numbers of compromised computers, as well as other electronic devices — such as webcams and smart televisions that make up the ever- increasing Internet of Things — to force the shutdown of the targeted website, server or network.
+
+Security vulnerabilities in Internet-of-Things devices can make them accessible to cybercriminals seeking to anonymously and easily launch DDoS attacks.
+
+In contrast, a DoS attack generally uses a single computer and a single IP address to attack its target, making it easier to defend against.
+
+## How can I prevent DoS attacks?
+A general rule: The earlier you can identify an attack-in-progress, the quicker you can contain the damage. Here are some things you can do to protect yourself from this threat.
+
+### Method 1: Get help recognizing attacks
+Companies often use technology or anti-DDoS services to help defend themselves. These can help you recognize between legitimate spikes in network traffic and a DDoS attack.
+
+### Method 2: Contact your internet service provider
+If you find your company is under attack, you should notify your Internet Service Provider as soon as possible to determine if your traffic can be rerouted. Having a backup ISP is a good idea, too. Also, consider services that can disperse the massive DDoS traffic among a network of servers. That can help render an attack ineffective.
+
+### Method 3: Investigate black hole routing
+Internet service providers can use “black hole routing.” It directs excessive traffic into a null route, sometimes referred to as a black hole. This can help prevent the targeted website or network from crashing. The drawback is that both legitimate and illegitimate traffic is rerouted in the same way.
+
+### Method 4: Configure firewalls and routers
+Firewalls and routers should be configured to reject bogus traffic. Remember to keep your routers and firewalls updated with the latest security patches.
+
+### Method 5: Consider front-end hardware
+Application front-end hardware that’s integrated into the network before traffic reaches a server can help analyze and screen data packets. The hardware classifies the data as priority, regular, or dangerous as they enter a system. It can also help block threatening data.
+
+### What steps can I take if I’m a smaller business to prevent DoS attacks?
+If you operate on a smaller scale — say, you operate a basic website offering a service — your chances of becoming a victim of a DDoS attack are low. Even so, taking certain precautions will help protect you against becoming a victim of any type of attack by hackers.
+
+### Here are a few things that can help.
+
+Keep your security software, operating system, and applications updated. Security updates help patch vulnerabilities that hackers might try to exploit.
+Consider a trusted security software like Norton Security.
+Consider a router that comes with built-in DDoS protection. Look for a website hosting service with an emphasis on security.
+Taking simple precautions can make a difference when it comes to your online security. For large organizations, the precautions become far more complex.
 
 ## References:
 - Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
