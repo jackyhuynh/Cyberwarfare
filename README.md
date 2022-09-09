@@ -9,6 +9,8 @@ The cybersecurity and cyber-warfare fundamental
 - [Hacktivism: a new form of political activism](https://sgpjournal.mgimo.ru/upload/ckeditor/files/7-gareeva-krylova-khovrina.pdf)
 - [Accessing ebook and resource here](https://www2.jblearning.com/my-account/dashboard/products)
 - [Hacking shutdown electric](https://www.youtube.com/watch?v=HjFrhpItcL8)
+- [DDOS Attacks](https://us.norton.com/internetsecurity-emerging-threats-dos-attacks-explained.html)
+
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
 
