@@ -10,6 +10,12 @@ The cybersecurity and cyber-warfare fundamental
 - [Accessing ebook and resource here](https://www2.jblearning.com/my-account/dashboard/products)
 - [Hacking shutdown electric](https://www.youtube.com/watch?v=HjFrhpItcL8)
 - [DDOS Attacks](https://us.norton.com/internetsecurity-emerging-threats-dos-attacks-explained.html)
+### Chapter 9: Defense-in-Depth
+- [Defense in Depth Is Dead, Long Live Depth in Defense](https://www.youtube.com/watch?v=mEjQ_pirbaE)
+
+### Chapter 10:
+- [Chris Domas: The 1s and 0s behind cyber warfare](https://www.youtube.com/watch?v=cWpRxyqDgpM)
+- [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://www.youtube.com/watch?v=jmTwlEh8L7g)
 
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
