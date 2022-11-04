@@ -1,0 +1,23 @@
+Introduction
+	Threats Summary and project mission (Truc)
+1-Identify Threats using Cyber Kill Chain
+	Supply Chain Security Management Issues (Truc)
+	Network Defense Strategies(Matt)
+2-Malware Threats
+	Identifies and Describes Malware Threats (Truc)
+	Apply Cyber Kill-Chain (Truc) and Diagram (Matt)
+	Adversary Modeling (Matt)
+3-Defense in Depth
+	Defense-in-Depth Layer Vulnerabilities (Truc)
+	Applied NSA’s Information Assurance Strategy (Truc)
+	The Use of A Cryptographic System Or Technique (Matt)
+4-Power Grid Computer Network
+	Mission assurance processes (Truc)
+	Industrial control systems (ICS) (Truc)
+	Other necessary Network defense technologies (Matt)
+	Network Operational Procedures (Matt)
+
+Part 1: Identifying Supply Chain Security Management Issues and Sources of Threat Information
+Part 2: Identifying Cyber Threats and Applying the Cyber Kill Chain
+Part 3: Ensuring Defense in Depth
+Part 4: Examining Mission Assurance and Operational Procedures
