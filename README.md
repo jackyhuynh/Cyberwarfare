@@ -238,6 +238,20 @@ Providing a resilient network often combines a series of design elements that ca
 
 Surviving network attacks requires both careful design and the ability to respond quickly and intelligently to attacks that do succeed. Restoring services must be carefully balanced with understanding what attackers did, and what the best route to recovering may be.
 
+### Network operational procedures
+
+The procedures and processes used to operate a secure network are part of the human layers of protection that go into a well-designed defense-in-depth network defense strategy. The following procedures must be in place:
+- Network device management, updates, and configuration must ensure that the devices making up the network are properly patched, do not use default passwords or vulnerable configurations, and that the configurations are backed up and consistent. In addition, the way that devices are managed can help to ensure that a trusted attacker cannot modify the device to breach the organization’s security, and that attackers can’t use a trusted system to make changes without those changes being noticed. This is done via automated configuration and validation tools or systems.
+- Response processes for both breaches and vulnerabilities are needed to ensure that issues are dealt with promptly and fully. Internal disclosure and communication can help to minimize an issue’s effect, whereas incorrect or incomplete information or lack of a process can lead to the problem becoming even more of an issue.
+- Network entry and access management can help ensure that devices are trusted and secure. The ways in which devices are added to a network and the methods used to verify that systems or devices are allowed to connect are particularly important in a high-security environment. In DoD’s compartmentalization systems, a system that is not rated for Top Secret data should not be allowed into a Top Secret network. Ensuring that a system cannot just plug into a network jack or connect to a wireless network that isn’t compatible with its sensitivity rating helps to protect both the data and the network.
+- Device acquisition policies and procedures are increasingly important in computer network defense. The manufacturer of devices, the code and hardware that are part of the devices, and even the shipping process they go through can be important to the security of a device.
+
+The fear that nation-state-level organizations have influenced or modified the hardware and software of network devices has been a repeated news topic in recent years. Reports in 2012 noted that 9,539 banned businesses had sold technology to the U.S. government, and that about 10 percent of those incidents involved counterfeit parts or gear.
+
+The information released in 2014 by Edward Snowden included pictures purporting to show routers that were diverted to facilities used by the NSA, where additional software was allegedly loaded onto the routers. The code reportedly included “phone home” capabilities, which would activate once the routers were added to a live network. Such activities can lead to devices being compromised even before they are delivered.
+
+Many operational processes and policies are needed for a strong, secure network. A complete defense-in-depth design must first identify what may be needed, and then must prioritize which processes are most important without leaving gaps attackers can exploit.
+
 # Denial of Service (DoS) Attacks:
 
 A “denial of service” or DoS attack is used to tie up a website’s resources so that users who need to access the site cannot do so. The attacks have hit many major companies. And the bad news? Because a DoS attack can be launched from nearly any location, finding those responsible for them can be difficult.
