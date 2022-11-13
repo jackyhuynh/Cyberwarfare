@@ -24,37 +24,6 @@ The cybersecurity and cyber-warfare fundamental
 - [How to use Tor Browser | Tor Tutorial part 1](https://www.youtube.com/watch?v=yveTy-mf3u8)
 - [USB thumb-drive attack](https://www.youtube.com/watch?v=t9C6tXQg0vg)
 
-#### A-Network Defense in Depth: 
-Effective defenses for networks typically require multiple layers of technologies, processes, procedures, awareness, and training, which operate in layers to provide defense in depth. 
-Network defense in depth must focus on attacks from:
-- Outside a network
-- Trusted systems allowed to connect to the network or which may be compromised and then used to attack the network from the inside
-- Coworkers or trusted network or system administrators
-Layered defenses in a network design allow defenders to deal with a breach more effectively by using additional defenses to prevent the attack from making further progress. It allows them to detect the attack and react appropriately. Layered defenses are an expected part of almost any network design. Click on each topic to learn more.
-
-#### The major types of networks
-Cyberwarfare defenders must consider many types of networks when they design defenses. Among those networks, there are four major types that are commonly found in many organizations:
-- Local area networks (LANs)—Defenders typically can control LANs relatively effectively, allowing them to choose technologies, implementation, practices, and policies that best suit the needs of their organizations.
-- Wide area networks (WANs)—WANS are between local networks. They often use third-party service providers to interconnect local networks, resulting in risks based on the abilities of those service providers to ensure reliable, secure service.
-- The Internet—This is a decentralized, open network that is not designed to be inherently secure. It is a network of networks, and provides both an immense variety of options for organizations that want to communicate and just as many possibilities for attack.
-- Proprietary networks—These networks are based on specialized technologies or have some other distinguishing factor that makes them separate from other, more traditional networks.
-
-#### The Protect, Detect, React paradigm
-
-The U.S. government provides many of the most accessible strategy and implementation documents available describing computer network defense. The U.S. National Security Agency (NSA) publishes documents that are broadly adopted by organizations worldwide.
-
-The technology portion of the NSA’s People/Technology/Operations defense-in-depth strategy relies on a Protect, Defend, React paradigm. This requires the network to include protective mechanisms and abilities, as well as capabilities, processes, and technologies that can detect attacks.
-
-This assumption that attacks will occur and that they may succeed then drives the need for the ability to react. Thus, the NSA’s requirement for defense in depth includes the ability to handle attacks and breaches, and not only to respond appropriately, but also to recover after the breach.
-
-The technology for the NSA’s defense-in-depth strategy, shown in the figure, focuses on network and infrastructure protection in three major areas:
-
-- Protection of LANs and WANs against attacks like denial of service (DoS) attacks that attempt to prevent use of networks and systems on networks
-- The requirement to protect both confidentiality and integrity, which ensures that data is not exposed and has not been modified when transmitted over networks
-- The use of enclave boundaries or network segment protection by means of firewalls and intrusion detection systems to both limit traffic and detect attacks
-
-The way that people are trained as well as the policies, standards, and processes they use all have an important role in the NSA’s strategy—as do the operational elements such as log monitoring, certification, and day-to-day management. In fact, every part of the NSA’s strategy is critical to an information assurance program.
-
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
 
@@ -199,7 +168,38 @@ individuals to influence their emotions, motives, objective reasoning, and behav
     Implement the plan in a secure way (four criteria) 
 - Retrieved from (1)
 
-# Hands on Practice:
+### Network Defense in Depth: 
+Effective defenses for networks typically require multiple layers of technologies, processes, procedures, awareness, and training, which operate in layers to provide defense in depth. 
+Network defense in depth must focus on attacks from:
+- Outside a network
+- Trusted systems allowed to connect to the network or which may be compromised and then used to attack the network from the inside
+- Coworkers or trusted network or system administrators
+Layered defenses in a network design allow defenders to deal with a breach more effectively by using additional defenses to prevent the attack from making further progress. It allows them to detect the attack and react appropriately. Layered defenses are an expected part of almost any network design. Click on each topic to learn more.
+
+### The major types of networks
+Cyberwarfare defenders must consider many types of networks when they design defenses. Among those networks, there are four major types that are commonly found in many organizations:
+- Local area networks (LANs)—Defenders typically can control LANs relatively effectively, allowing them to choose technologies, implementation, practices, and policies that best suit the needs of their organizations.
+- Wide area networks (WANs)—WANS are between local networks. They often use third-party service providers to interconnect local networks, resulting in risks based on the abilities of those service providers to ensure reliable, secure service.
+- The Internet—This is a decentralized, open network that is not designed to be inherently secure. It is a network of networks, and provides both an immense variety of options for organizations that want to communicate and just as many possibilities for attack.
+- Proprietary networks—These networks are based on specialized technologies or have some other distinguishing factor that makes them separate from other, more traditional networks.
+
+### The Protect, Detect, React paradigm
+
+The U.S. government provides many of the most accessible strategy and implementation documents available describing computer network defense. The U.S. National Security Agency (NSA) publishes documents that are broadly adopted by organizations worldwide.
+
+The technology portion of the NSA’s People/Technology/Operations defense-in-depth strategy relies on a Protect, Defend, React paradigm. This requires the network to include protective mechanisms and abilities, as well as capabilities, processes, and technologies that can detect attacks.
+
+This assumption that attacks will occur and that they may succeed then drives the need for the ability to react. Thus, the NSA’s requirement for defense in depth includes the ability to handle attacks and breaches, and not only to respond appropriately, but also to recover after the breach.
+
+The technology for the NSA’s defense-in-depth strategy, shown in the figure, focuses on network and infrastructure protection in three major areas:
+
+- Protection of LANs and WANs against attacks like denial of service (DoS) attacks that attempt to prevent use of networks and systems on networks
+- The requirement to protect both confidentiality and integrity, which ensures that data is not exposed and has not been modified when transmitted over networks
+- The use of enclave boundaries or network segment protection by means of firewalls and intrusion detection systems to both limit traffic and detect attacks
+
+The way that people are trained as well as the policies, standards, and processes they use all have an important role in the NSA’s strategy—as do the operational elements such as log monitoring, certification, and day-to-day management. In fact, every part of the NSA’s strategy is critical to an information assurance program.
+
+
 
 # Denial of Service (DoS) Attacks:
 
