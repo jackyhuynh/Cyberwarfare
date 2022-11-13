@@ -199,7 +199,44 @@ The technology for the NSA’s defense-in-depth strategy, shown in the figure, f
 
 The way that people are trained as well as the policies, standards, and processes they use all have an important role in the NSA’s strategy—as do the operational elements such as log monitoring, certification, and day-to-day management. In fact, every part of the NSA’s strategy is critical to an information assurance program.
 
+### Mission Assurance
 
+In addition to the NSA’s Protect, Defend, React paradigm, the U.S. Department of Defense (DoD) uses a concept known as mission assurance as a key part of its defense-in-depth strategy. In short, mission assurance in cyberwarfare operations is the process by which systems and networks are kept online and functioning. DoD helps to ensure this by using a risk management process that assesses the functional requirements of networks and systems then matches appropriate methods of control to them to ensure that the risks they face will not disrupt them.
+
+DoD has developed its mission assurance strategy over time, and in March 2014, it adopted a new standard as part of its overall information assurance strategy. The Risk Management Framework for DoD Information Technology is designed to provide mission assurance, and is aligned with the National Institute of Standards and Technology’s (NIST) Risk Management Framework (RMF). The policy under which the RMF was adopted states that DoD will use enterprise-wide decision-making processes for cybersecurity risk management based on NIST standards and guidance.
+
+- Mission Assurance Categories (MAC)
+- The NIST risk management process
+- Surviving attacks
+- Network operational procedures
+
+### Mission Assurance Categories (MAC)
+
+DoD uses three mission assurance levels, known as Mission Assurance Categories (MAC):
+
+- MAC I is composed of systems that are critical to the completion of DoD’s mission, and which therefore must have the highest possible level of integrity and availability, as well as extremely strong security controls.
+- MAC II includes systems that support deployed and backup forces. Although not as critical as MAC I, MAC II systems could have a significant impact on DoD’s ability to complete its mission. Loss of availability is only allowable for very short time periods, whereas loss of integrity through the modification of data is not acceptable for MAC II systems. DoD notes that MAC II–level systems must exceed common industry practices for security to provide high levels of integrity and availability.
+- MAC III includes systems that are used for normal operations but are not used for operational support of deployed units or for mission-critical operations. Thus, although MAC III systems are important, the exposure or modification of data on MAC III systems, or issues with their availability, could be dealt with in a reasonable way. MAC III systems are expected to use common industry standards for security to provide integrity and availability assurance.
+
+### The NIST risk management process
+
+The National Institute of Standards and Technology’s (NIST) Risk Management Framework (RMF) provides a process for assessing risk to systems and data, then selecting, implementing, using, and monitoring appropriate controls. The figure shows the NIST RMF process flow for risk assessment. In computer network defense operations, the categorization process typically includes assessments of the classification of data and systems, as well as the mission assurance requirements of the systems and networks involved. Categorization also typically looks at relevant laws, standards, and strategic requirements, as well as what resources are available. NIST provides guidance on classification of systems for U.S. government agencies as part of FIPS 199, a standard written in 2004 for security categorization of federal information and information systems.
+
+DoD’s relatively quick changes in risk management and information assurance strategies demonstrate the pace at which defensive strategies and technologies have changed since DoD’s Information Assurance Certification and Accreditation Process (DIACAP) was first adopted under the NSA’s guidance. The level of reliance on computer networks, as well as their role in cyberwarfare and traditional kinetic warfare, has greatly increased in the seven years since DIACAP was fully approved, creating an ongoing need to update and replace existing standards. In addition to the changes made necessary by new technologies and threats, the move to DoD RMF for information technology (IT) also better aligns the department with other U.S. government agencies that have adopted the NIST Risk Management Framework for their own use. This allows shared training, easier auditing, and other advantages based on a shared knowledge base for military personnel and civilian contractors
+
+### Surviving attacks
+
+The need for mission assurance and the ability to react mean that surviving network attacks is an important part of defending networks in cyberwar. Networks must be both resilient and adaptable to changing network conditions—like those found in large-scale denial of service attacks conducted from thousands of systems around the world—and yet still must be able to handle an attack that targets their component parts.
+
+Providing a resilient network often combines a series of design elements that can include capabilities such as:
+- Diverse geographic locations for major network components to make sure that natural disasters or direct enemy action cannot disable the entire network.
+- Multiple service providers if commercial services are used to provide network connectivity.
+- Careful analysis of the paths network traffic takes, to ensure that a single event can’t disable multiple paths at one time.
+- Selection of hardware and software to handle attacks that create excessive traffic or are aimed at a specific hardware or software version. This can require multiple brands or types of devices, as well as different testing than a typical commodity device might undergo.
+- Certification and configuration testing to ensure that the device has been tested for security and design flaws. This doesn’t prevent the flaws, but can help ensure that the devices are more secure by default.
+- Use of commercial services that specialize in defense against network attacks like distributed denial of service (DDoS) attacks. These services use very high-bandwidth systems distributed closer to end users to ensure that an attack against a single location or data center cannot prevent the service from continuing to be available to most users.
+
+Surviving network attacks requires both careful design and the ability to respond quickly and intelligently to attacks that do succeed. Restoring services must be carefully balanced with understanding what attackers did, and what the best route to recovering may be.
 
 # Denial of Service (DoS) Attacks:
 
