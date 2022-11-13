@@ -23,6 +23,14 @@ The cybersecurity and cyber-warfare fundamental
 - [Onion Routing and TOR (Part 1): Motivation and Introduction](https://www.youtube.com/watch?v=l5FRYpPwpJ0)
 - [How to use Tor Browser | Tor Tutorial part 1](https://www.youtube.com/watch?v=yveTy-mf3u8)
 - [USB thumb-drive attack](https://www.youtube.com/watch?v=t9C6tXQg0vg)
+#### Network Defense in Depth: 
+Effective defenses for networks typically require multiple layers of technologies, processes, procedures, awareness, and training, which operate in layers to provide defense in depth. 
+Network defense in depth must focus on attacks from:
+- Outside a network
+- Trusted systems allowed to connect to the network or which may be compromised and then used to attack the network from the inside
+- Coworkers or trusted network or system administrators
+Layered defenses in a network design allow defenders to deal with a breach more effectively by using additional defenses to prevent the attack from making further progress. It allows them to detect the attack and react appropriately. Layered defenses are an expected part of almost any network design. Click on each topic to learn more.
+
 
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
