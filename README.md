@@ -17,6 +17,13 @@ The cybersecurity and cyber-warfare fundamental
 - [Chris Domas: The 1s and 0s behind cyber warfare](https://www.youtube.com/watch?v=cWpRxyqDgpM)
 - [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86](https://www.youtube.com/watch?v=jmTwlEh8L7g)
 
+### Chapter 11:
+- [Intrusion Detection and Prevention Systems - CompTIA Network+ N10-006 - 1.1](https://www.youtube.com/watch?v=mmt4B60xSj0)
+- [Honeypots](https://www.youtube.com/watch?v=GdXFen4ZTvE)
+- [Onion Routing and TOR (Part 1): Motivation and Introduction](https://www.youtube.com/watch?v=l5FRYpPwpJ0)
+- [How to use Tor Browser | Tor Tutorial part 1](https://www.youtube.com/watch?v=yveTy-mf3u8)
+- [USB thumb-drive attack](https://www.youtube.com/watch?v=t9C6tXQg0vg)
+
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
 
