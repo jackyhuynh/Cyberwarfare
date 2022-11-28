@@ -24,6 +24,23 @@ The cybersecurity and cyber-warfare fundamental
 - [How to use Tor Browser | Tor Tutorial part 1](https://www.youtube.com/watch?v=yveTy-mf3u8)
 - [USB thumb-drive attack](https://www.youtube.com/watch?v=t9C6tXQg0vg)
 
+### Chapter 12:
+In this section, you will examine a number of topics related to cyberwarfare. You will learn about how cyberwarfare is waged and the means used for combating cyberwarfare.
+
+Concepts: Military leaders have always realized that information is a critical part of conducting warfare. It is not surprising that cyberwarfare is simply a natural extension of traditional warfare in the digital realm (or landscape).
+
+Objectives: The objectives of cyberwarfare are similar to those of conventional warfare—to protect one’s own private information and attempt to intercept and decipher the information of one’s adversaries.
+
+Context: Our world has experienced momentous changes over the past few decades. You need to know how these changes have led to today’s real-world challenges in order to have a context for how cyberwarfare is conducted and combated.
+
+Technology: Cyberwarfare involves the use of the latest developments in technology. The evolution of technology, and the technology of war, has revolutionized the way information is gathered, protected—and attacked.
+
+Understanding: Cyberspace has become mankind’s latest battlefield. You will come away from this course with a firm understanding of the techniques used in both offensive and defensive information warfare as well as how cyberwarfare shapes military policy.
+
+- [The cyber soldiers of the future](https://www.youtube.com/watch?v=VaLOTtM5zWM)
+
+- [An exclusive look behind the scenes of the U.S. military’s cyber defense](https://www.youtube.com/watch?v=mZ132CLANCk)
+
 ## Discussion:
 ### The Differences in Cyberwarfare Attackers:
 
@@ -332,6 +349,33 @@ Keep your security software, operating system, and applications updated. Securit
 Consider a trusted security software like Norton Security.
 Consider a router that comes with built-in DDoS protection. Look for a website hosting service with an emphasis on security.
 Taking simple precautions can make a difference when it comes to your online security. For large organizations, the precautions become far more complex.
+
+## Five Pillars of Cyberwarfare
+The Department of Defense has outlined a strategy for cyberspace operations that consists of five major pillars. These pillars are the strategic initiatives that the government considers essential to building and maintaining the nation’s cyberwarfare superiority. Described in the Department of Defense Strategy for Operating in Cyberspace, the five pillars include:
+- “Treat cyberspace as an operational domain to organize, train, and equip so that DoD can take full advantage of cyberspace’s potential.”
+- “Employ new defense operating concepts to protect DoD networks and systems.”
+- “Partner with other U.S. government departments and agencies and the private sector to enable a whole-of-government cybersecurity strategy.”
+- “Build robust relationships with U.S. allies and international partners to strengthen collective cybersecurity.”
+- “Leverage the nation’s ingenuity through an exceptional cyber workforce and rapid technological innovation.”
+
+The ability of the United States, or any nation, to effectively engage in the new domain of cyberspace depends upon the successful fulfillment of these five strategic objectives.
+
+## U.S. Cyber Command (USCYBERCOM)
+USSTRATCOM manages cyberspace operations through the use of a “subordinate unified command,” the U.S. Cyber Command (USCYBERCOM).
+
+As a subordinate unified command, USCYBERCOM has full command authority over cyberspace operations, but reports through the commander of USSTRATCOM.
+As a unified organization, USCYBERCOM is composed of the military service component commands that represent the uniformed services, each of which has the responsibility for cyberspace operations within its respective military service:
+Twenty-Fourth Air Force (Air Forces Cyber)
+Second Army (Army Cyber Command)
+Tenth Fleet (Fleet Cyber Command)
+Marine Corps Cyberspace Command
+
+
+The command is located at Fort Meade, Maryland, home to the National Security Agency (NSA). The command is led by a four-star flag officer. To date, two officers have held this position on a permanent basis:
+
+General Keith Alexander held the position from the command’s creation in 2010 until his retirement in 2014.
+Admiral Michael Rogers assumed command in April 2014.
+Both officers held the command of USCYBERCOM concurrently with their service as director of the National Security Agency.
 
 ## References:
 - Chapple, M., & Seidl, D. (2023). Cyberwarfare: Information Operations in a Connected World (Second). essay, Jones & Bartlett Learning. (1)
